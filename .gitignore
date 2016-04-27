@@ -107,3 +107,8 @@ $RECYCLE.BIN/
 
 # Windows shortcuts
 *.lnk
+# data file
+*.xls
+*.xlsx
+*.sav
+*.pkl
